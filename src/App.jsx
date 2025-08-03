@@ -96,13 +96,10 @@ function App() {
           <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">About Me</h2>
           <div className="bg-white p-8 rounded-lg">
             <p className="text-gray-700 mb-6">
-              I'm a student studying UX design with a focus on educational technology. I got interested in this field 
-              because I've seen how confusing and overwhelming learning new technical skills can be, especially in 
-              game development.
+              I'm a student studying UX design with a focus on education. This reasoning being because as an aspiring game developer, I don't really see that many beginner friendly paths to learning your passion easily.
             </p>
             <p className="text-gray-700 mb-6">
-              Through my coursework, I've learned that good design can make complex topics more approachable and help 
-              people actually stick with learning instead of giving up. That's what drives my work.
+              As such, throughout this semester, I've learned that the better UI/UX design you have, the better experience people will have completling tutorials in game development.
             </p>
             <div className="mb-6">
               <h3 className="font-semibold text-gray-900 mb-3">What I'm learning:</h3>
@@ -251,8 +248,7 @@ function App() {
                   feel overwhelmed.
                 </p>
                 <p className="text-gray-700">
-                  If I had more time, I'd add mentorship features and better progress tracking to help people 
-                  escape tutorial hell.
+                  If I had more time, I'd add  the mentorship feature so that people can feel confident that they are going in a right direction.
                 </p>
               </div>
             </div>
